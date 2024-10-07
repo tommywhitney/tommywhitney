@@ -1,5 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tommy 👋
 
+## What I'm up to
+- :potable_water: I am currently working as a Software Developer at [Virga Labs](https://www.virgalabs.io/) where I design and develop software to create data-driven tools and solutions for water policy management in the Southwest United States
+- :books: I hold a Bachelor's degree from Northern Arizona University in Computer Science and have 4+ years of experience working as a designer and software developer
+- :wrench: I'm currently working with Sveltekit and Typescript to build lightweight, powerful web applications
+
+## Languages
+<a href="https://svelte.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="r" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/TypeScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="r" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="r" width="40" height="40"/> </a>
+<a href="https://www.rstudio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+## Get in touch
+If you would like to chat, please reach out on [LinkedIn](https://www.linkedin.com/in/thomas-whitney/)!
 <!--
 **tommywhitney/tommywhitney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
