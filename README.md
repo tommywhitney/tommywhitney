@@ -10,7 +10,7 @@
 - :ocean: [Colorado River Status Tracker](https://coriverstorage.com/) - Understand the inputs and outputs of the Colorado River Basin 
 - :computer: [VirgaLabs.io](https://www.virgalabs.io/) - Art and Data for Action in the Colorado River Basin
 - :world_map: [Colorado River Solutions Map](https://resilientcoriver.org/solutions/) - View where projects are happening in the Colorado River Basin
-- :bar_chart: [NAU Grade Distribution](https://github.com/tommywhitney/grade-distro-app) - Visualize and discover grade distributions at Northern Arizona University
+- :bar_chart: [NAU Grade Distribution](https://grade-distro.vercel.app/) - Visualize and discover grade distributions at Northern Arizona University
 
 ## Languages
 <a href="https://svelte.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="r" width="40" height="40"/> </a>
