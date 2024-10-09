@@ -11,6 +11,7 @@
 - :computer: [VirgaLabs.io](https://www.virgalabs.io/) - Art and Data for Action in the Colorado River Basin
 - :world_map: [Colorado River Solutions Map](https://resilientcoriver.org/solutions/) - View where projects are happening in the Colorado River Basin
 - :bar_chart: [NAU Grade Distribution](https://grade-distro.vercel.app/) - Visualize and discover grade distributions at Northern Arizona University
+- :movie_camera: [Movie Quiz](https://movie-quiz-seven.vercel.app/) - Test your knowledge on top rated films
 
 ## Languages
 <a href="https://svelte.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="r" width="40" height="40"/> </a>
