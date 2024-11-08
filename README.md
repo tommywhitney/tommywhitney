@@ -4,7 +4,7 @@
 - :potable_water: I am currently working as a Software Developer at [Virga Labs](https://www.virgalabs.io/) where I design and develop software to create data-driven tools and solutions for water policy management in the Southwest United States
 - :books: I hold a Bachelor's degree from Northern Arizona University in Computer Science and have 4+ years of experience working as a designer and software developer
 - :wrench: I'm currently working with Sveltekit and Typescript to build lightweight, powerful web applications
-- :keyboard: Check out my [Neovim config](https://github.com/tommywhitney/neovim) for some keyboard based fun!
+- :keyboard: Check out my [Neovim config](https://github.com/tommywhitney/dotfiles/tree/main/nvim) for some keyboard based fun!
 
 ## Projects
 - :ocean: [Colorado River Status Tracker](https://coriverstorage.com/) - Understand the inputs and outputs of the Colorado River Basin 
