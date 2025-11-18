@@ -1,10 +1,10 @@
 # Hi, I'm Tommy - [https://tommywhitney.vercel.app/](https://tommywhitney.vercel.app/)
 
 ## What I'm up to
-- 🖥️ I am currently working as a Software Developer at [Forio](https://forio.com/)
-- :books: I hold a Bachelor's degree from Northern Arizona University in Computer Science and have 4+ years of experience working as a designer and software developer
-- :wrench: I'm currently working with Sveltekit and Typescript to build lightweight, powerful web applications
-- :keyboard: Check out my [Neovim config](https://github.com/tommywhitney/dotfiles/tree/main/nvim) for some keyboard based fun!
+- I am currently working as a Software Developer at [Forio](https://forio.com/)
+- I hold a Bachelor's degree from Northern Arizona University in Computer Science and have 4+ years of experience working as a designer and software developer
+- I'm currently working with Sveltekit and Typescript to build lightweight, powerful web applications
+- Check out my [Neovim config](https://github.com/tommywhitney/dotfiles/tree/main/nvim) for some keyboard based fun!
 
 ## Projects
 - [Colorado River Status Tracker](https://coriverstorage.com/) - Understand the inputs and outputs of the Colorado River Basin 
