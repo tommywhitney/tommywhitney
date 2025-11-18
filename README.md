@@ -1,4 +1,4 @@
-# Hi, I'm Tommy - [https://tommywhitney.vercel.app/](https://tommywhitney.vercel.app/)
+# [https://tommywhitney.vercel.app/](https://tommywhitney.vercel.app/)
 
 ## What I'm up to
 - I am currently working as a Software Developer at [Forio](https://forio.com/)
