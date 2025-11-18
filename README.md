@@ -1,4 +1,4 @@
-# Hi, I'm Tommy 👋 - [https://tommywhitney.vercel.app/](https://tommywhitney.vercel.app/)
+# Hi, I'm Tommy - [https://tommywhitney.vercel.app/](https://tommywhitney.vercel.app/)
 
 ## What I'm up to
 - 🖥️ I am currently working as a Software Developer at [Forio](https://forio.com/)
@@ -7,11 +7,11 @@
 - :keyboard: Check out my [Neovim config](https://github.com/tommywhitney/dotfiles/tree/main/nvim) for some keyboard based fun!
 
 ## Projects
-- :ocean: [Colorado River Status Tracker](https://coriverstorage.com/) - Understand the inputs and outputs of the Colorado River Basin 
-- :computer: [VirgaLabs.io](https://www.virgalabs.io/) - Art and Data for Action in the Colorado River Basin
-- :world_map: [Colorado River Solutions Map](https://resilientcoriver.org/solutions/) - View where projects are happening in the Colorado River Basin
-- :bar_chart: [NAU Grade Distribution](https://grade-distro.vercel.app/) - Visualize and discover grade distributions at Northern Arizona University
-- :movie_camera: [Movie Quiz](https://movie-quiz-seven.vercel.app/) - Test your knowledge on top rated films
+- [Colorado River Status Tracker](https://coriverstorage.com/) - Understand the inputs and outputs of the Colorado River Basin 
+- [VirgaLabs.io](https://www.virgalabs.io/) - Art and Data for Action in the Colorado River Basin
+- [Colorado River Solutions Map](https://resilientcoriver.org/solutions/) - View where projects are happening in the Colorado River Basin
+- [NAU Grade Distribution](https://grade-distro.vercel.app/) - Visualize and discover grade distributions at Northern Arizona University
+- [Movie Quiz](https://movie-quiz-seven.vercel.app/) - Test your knowledge on top rated films
 
 ## Languages
 <a href="https://svelte.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="r" width="40" height="40"/> </a>
